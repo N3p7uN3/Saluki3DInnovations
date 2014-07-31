@@ -48,7 +48,7 @@
 				RuntimeLibrary="3"
 				WarningLevel="3"
 				DebugInformationFormat="4"
-				ForcedIncludeFiles="C:\Users\Wheeler\Downloads\Saluki3DInnovations 4-22 1550\Saluki3DInnovations\MicrocontrollerSoftware\Visual Micro\.MicrocontrollerSoftware.vsarduino.h"
+				ForcedIncludeFiles="C:\Users\Wheeler\Documents\Visual Studio 2008\Projects\Saluki3DInnovations\MicrocontrollerSoftware\Visual Micro\.MicrocontrollerSoftware.vsarduino.h"
 			/>
 			<Tool
 				Name="VCManagedResourceCompilerTool"
