@@ -15,7 +15,6 @@ namespace Printer_Controller
     
     public class Printer
     {
-        //int baudRate = 9600;
         QueueManager _theQueue;
         public AxesPositioning _thePositioning;
         private volatile PrinterSettings _settings;
